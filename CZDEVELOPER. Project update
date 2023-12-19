@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-<version>1.0.0.0</version>
-<url>https://www.czdeveloper.com</url>
-<changelog>https://www.czdeveloper.com</changelog>
-<mandatory>false</mandatory>
+    <version>1.0.0.0</version>
+    <url>https://czdeveloper-hosting03.000webhostapp.com/czdeveloper.zip</url>
+    <changelog>https://www.czdeveloper.com</changelog>
+    <mandatory>false</mandatory>
 </item>
